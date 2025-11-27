@@ -49,20 +49,6 @@
 
   <br/>
 
-  <!-- SNAKE GAME (Isso requer configurar uma Action no GitHub, veja instruções abaixo) -->
-  <!-- 
-    PARA ATIVAR A COBRA:
-    1. Crie um arquivo em .github/workflows/snake.yml no seu repositório
-    2. Copie o código de: https://github.com/Platane/snk
-    3. A imagem abaixo aparecerá automaticamente após a action rodar
-  -->
-  <h3>🐍 Contribution Snake</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Enersh1/Enersh1/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Enersh1/Enersh1/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Enersh1/Enersh1/output/github-contribution-grid-snake.svg">
-  </picture>
-
   <br/><br/>
 
   <!-- RODAPÉ -->
