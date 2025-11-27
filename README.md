@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=Enersh1&theme=road_trip&pixelate_avatar=true&screen_effect=true" width="800" alt="Pixel Profile Stats">
-</div>
-
-<div align="center">
-  
   # 👾 Olá, eu sou Enersh1! 👾
   
   *Desenvolvedor | Entusiasta de Pixel Art | Tech Lover*
@@ -20,6 +14,14 @@
     Exemplo: Sou um estudante de Ciência da Computação apaixonado por criar soluções inovadoras...
 -->
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+---
+
+<div align="center">
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=Enersh1&theme=road_trip&pixelate_avatar=true&screen_effect=true" width="800" alt="Pixel Profile Stats">
+</div>
+
+<div align="center">
 
 ---
 
