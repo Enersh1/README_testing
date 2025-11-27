@@ -43,10 +43,8 @@
   <!-- ESTATÍSTICAS DO GITHUB -->
   <h3>📊 High Scores</h3>
   <p>
-    <!-- Substitua 'Enersh1' pelo seu usuário se necessário, mas já deixei configurado -->
-    <!-- Theme 'radical' tem cores neon que combinam com pixel art/cyberpunk -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Enersh1&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Stats" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enersh1&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Languages" height="150"/>
+    <!-- Stats usando pixel-profile com tema CRT e avatar pixelado -->
+    <img src="https://pixel-profile.vercel.app/api/github-stats?username=Enersh1&theme=crt&pixelate_avatar=true&screen_effect=true&background=000000" alt="Pixel Profile Stats" width="800" />
   </p>
 
   <br/>
